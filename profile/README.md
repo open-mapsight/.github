@@ -1,3 +1,3 @@
 # Open Mapsight
 
-![][banner]
+![Mapsight - Open-Source - Accessible - Privacy First][banner.webp]
