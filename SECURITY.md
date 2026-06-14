@@ -12,4 +12,4 @@ configuration issue, please contact us and we will do our best to assist you.
 ## Reporting a Vulnerability
 
 If you find a security vulnerability, please report it to us via email:
-[mapsight@pje-web.de](mailto:mapsight@pje-web.de)
+[security@open-mapsight.org](mailto:security@open-mapsight.org)
