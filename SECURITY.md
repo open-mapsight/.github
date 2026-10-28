@@ -1,4 +1,4 @@
-# Open Mapsight Security Policy
+# Mapsight Security Policy
 
 As an open-source project, we encourage you to explore the source code and
 report (or fix) any security issues you find. We take security very seriously,
